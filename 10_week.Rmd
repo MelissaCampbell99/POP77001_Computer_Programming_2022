@@ -1,5 +1,15 @@
 # 10 Data Wrangling in Python
 
+<div id="buttons">
+<a class="btn btn-primary btn-lg" role="button" href="lectures/10_week.html">Lecture Slides (html)</a>
+<a class="btn btn-info btn-lg" role="button" href="https://github.com/ASDS-TCD/POP77001_Computer_Programming_2022/blob/main/lectures/10_week.pdf">Lecture Slides (pdf)</a>
+<a class="btn btn-secondary btn-lg" role="button" href="https://github.com/ASDS-TCD/POP77001_Computer_Programming_2022/blob/main/lectures/10_week.ipynb">Lecture Slides (ipynb)</a>
+<br>
+<br>
+<a class="btn btn-success btn-lg" role="button" href="https://github.com/ASDS-TCD/POP77001_Computer_Programming_2022/blob/main/tutorials/10_week.ipynb">Tutorial Exercise (ipynb)</a>
+<a class="btn btn-info btn-lg" role="button" href="https://github.com/ASDS-TCD/POP77001_Computer_Programming_2022/blob/main/tutorials/10_week.pdf">Tutorial Exercise (pdf)</a>
+<a class="btn btn-secondary btn-lg" role="button" href="tutorials/10_week.html">Tutorial Exercise (html)</a>
+</div>
 ---
 
 This week we will turn from broader programming and software engineering concepts to practical approaches of working with data in Python. In particular, we will focus on `pandas`, a versatile library for data analysis, which often serves as the first building block in many data-science pipelines.
@@ -11,9 +21,9 @@ This week we will turn from broader programming and software engineering concept
 ## Additional Readings
 
 - Guttag Ch 23: Exploring Data with Pandas;
-- McKinney Ch [9: Plotting and Visualization](https://wesmckinney.com/book/plotting-and-visualization.html);
+- Charles R. Harris et al. 2020. Array programming with NumPy. *Nature* 585 (7825): 357-362. [https://doi.org/10.1038/s41586-020-2649-2](https://doi.org/10.1038/s41586-020-2649-2)
 
 ## Tutorial
 
-- Data input and output
-- Working with pandas library
+- Data input and output;
+- Working with pandas library.
